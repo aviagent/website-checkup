@@ -1,0 +1,12 @@
+{
+  "name": "website-checkup",
+  "version": "1.0.0",
+  "description": "A plain-English report card for a small business website. One file, no dependencies.",
+  "type": "module",
+  "bin": { "website-checkup": "checkup.mjs" },
+  "files": ["checkup.mjs", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "license": "MIT",
+  "author": "Avi Agentics",
+  "keywords": ["website", "seo", "checkup", "small-business", "audit"]
+}
